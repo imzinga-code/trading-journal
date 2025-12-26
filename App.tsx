@@ -890,7 +890,7 @@ const App: React.FC = () => {
                     </div>
                   </div>
 
-                  {/* 🎯 핵심 개선: 현재 가용 투자 잔금 입력 필드 - 버그 수정 버전 */}
+                  {/* 🎯 핵심 개선 １２－２６: 현재 가용 투자 잔금 입력 필드 - 버그 수정 버전 */}
                   <div className="space-y-2">
                     <label className="text-sm font-black text-slate-700 ml-1">
                       현재 가용 투자 잔금 <span className="text-rose-500">*</span>
